@@ -19,7 +19,7 @@ Below is the data dictionary for '2021NFLStandings.csv"
 
 | Variable | Data Type | Description | Example |
 |----------|-----------|-------------|---------|
-| team | String | The NFL organization | 'Buffalo Bills' |
+| team | String | The NFL organization | 'Green Bay Packers' |
 | Wins | Numeric | The number of wins during the season overall | 13 |
 | Losses | Numeric | The number of wins during the season overall | 4 |
 | Win Percentage | Numeric | The number of wins divided by games played | 0.76 |
