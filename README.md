@@ -31,11 +31,7 @@ Below is the data dictionary for '2021NFLStandings.csv"
 | Road Win Percentage | Numeric | The number of road wins divided by road games played | 0.56 |
 
 ## Articles
-https://www.pbs.org/newshour/nation/what-really-causes-home-field-advantage-and-why-its-on-the-decline
-http://psychology.iresearchnet.com/social-psychology/control/home-field-advantage/
-https://www.covers.com/nfl/home-field-advantage
+https://www.pbs.org/newshour/nation/what-really-causes-home-field-advantage-and-why-its-on-the-decline. http://psychology.iresearchnet.com/social-psychology/control/home-field-advantage/. https://www.covers.com/nfl/home-field-advantage
 
 ## Code/Repos
-https://towardsdatascience.com/home-field-advantage-does-it-exist-without-fans-a0778c5a6a29
-https://github.com/g-tierney/NFL_HFA
-https://github.com/kendricktang/homefieldadvantage
+https://towardsdatascience.com/home-field-advantage-does-it-exist-without-fans-a0778c5a6a29. https://github.com/g-tierney/NFL_HFA. https://github.com/kendricktang/homefieldadvantage
